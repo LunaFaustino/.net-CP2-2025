@@ -2,6 +2,7 @@
 
 - Luna Faustino Lima - RM552473
 - Larissa Araújo Gama Alvarenga - RM96496
+- William Kenzo Hayashi - RM552659
 
 ## Estrutura do Projeto
 
